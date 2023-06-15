@@ -26,6 +26,9 @@ salaFut1.mostrarCanchas()
 #"Cancha=3, Precio=14000, Capacidad=12"
 #"Cancha=4, Precio=8000, Capacidad=8"
 
+Canchas.total
+#4
+
 salaFut1.crearCliente("325801235", "Jorge", "Perez", "Avellano", 45612581, "jperez")
 #"Error: La cuenta de correo no tiene formato correcto"
 salaFut1.crearCliente("325801235", "Jorge", "Perez", "Avellano", 45612581, "jperez@gmail.com")
@@ -135,4 +138,4 @@ salaFut1.resumen()
 #"Total horas reservadas: 3"
 
 Ex.SalaFutbol.totalSalas
-1
+#1
